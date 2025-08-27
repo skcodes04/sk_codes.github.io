@@ -201,14 +201,15 @@ section {
 
 
 .card{
+  display:inline-block;
   border: 1px solid #ccc;
   border-radius: 8px;
   text-align: left;
   padding: 20px;
-  background-color:transparent;
-  margin: 0.5rem;
+  background:transparent;
   width:100%;
   overflow:hidden;
+  margin-bottom: 1rem;
 }
 .card img{
   width:100%;
@@ -319,6 +320,7 @@ footer {
   margin-top: 30px;
   display: block;
 }
+
 
 
 
