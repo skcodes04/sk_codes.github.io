@@ -126,6 +126,27 @@ section {
   text-align: center;
 }
 
+/* about icon styling */
+.fa-brands{
+  font-size: 1.2rem;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  padding: 10px;
+  cursor: pointer;
+  margin: 2px;
+  background:#555;
+  color: #ccc;
+  font-weight: bold;
+  transition: transform .4s ease background .4s ease;
+}
+.fa-brands:hover{
+  transform: scale(1.1);
+  background:#333;
+}
+
+
 
 .skills-section {
   max-width: 1000px;
@@ -324,6 +345,7 @@ footer {
   margin-top: 30px;
   display: block;
 }
+
 
 
 
