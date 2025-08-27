@@ -41,7 +41,7 @@ if(!isDelete && charIndex < currPhrase.length){
 }
 else if(isDelete && charIndex > 0){
     charIndex--;
-    setTimeout(typingText, 50);
+    setTimeout(typingText, 100);
 }
 else{
     if(!isDelete){
@@ -60,4 +60,5 @@ else{
 typingText();
 
 // scrolling animation appear
+
  AOS.init();
