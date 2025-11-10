@@ -90,7 +90,6 @@ header.scrolled{
   border-right: 3px solid #ff9800;
   animation: blink 0.6s step-end infinite;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  white-space: nowrap;
   overflow: hidden;
   color: white;
   font-weight: bold;
@@ -346,6 +345,7 @@ footer {
   margin-top: 30px;
   display: block;
 }
+
 
 
 
