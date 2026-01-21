@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Page</title>
+    <style>
+    .products-section{
+    padding: 60px 20px;
+    background: #f9f9f9;
+    text-align: center;
+}
+
+.products-section h2{
+    font-size: 2rem;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.products-section p{
+    font-size: 1rem;
+    margin-bottom: 40px;
+    color: #666;
+}
+
+.product-list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.product-card{
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+    padding: 20px;
+    width: 100%;
+    max-width: 300px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.product-card img{
+    width: 100%;
+    object-fit: cover;
+    /* border-radius: 8px; */
+    /* margin-bottom: 15px; */
+       width: 100%;
+    object-fit: cover;
+}
+
+.product-card h3{
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.product-card p{
+    font-size: 0.95rem;
+    margin-bottom: 15px;
+    color: #555;
+}
+
+.product-card .btn{
+    display: inline-block;
+    padding: 10px 20px;
+    background:  #ff8a00;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: background 0.3s;
+}
+
+.product-card .btn:hover{
+    background: #e68900;
+}
+
+.product-card:hover{
+    transform: translateY(-5px);
+    box-shadow: 0 12px 30px rgba(0,0,0,0.15);
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px){
+    .product-list{
+        flex-direction: column;
+        /* gap: 20px; */
+        align-items: center;
+    }
+}
+
+    </style>
+</head>
+<body>
+
+    <section id="products" class="products-section">
+  <h2>Templates & Projects</h2>
+  <p>Check out my ready-to-use UI templates and small projects built with HTML, CSS and JavaScript.</p>
+
+  <div class="product-list">
+
+    <!-- Product 1 -->
+    <div class="product-card">
+      <img src="loginsignup.png" alt="Login\Signup Template">
+      <h3>JavaScript Quiz App</h3>
+      <p>Responsive quiz app with score tracking and interactive UI.</p>
+      <a href="https://yousufzai1.gumroad.com/l/hzxaqn" target="_blank" class="btn">Get Template</a>
+    </div>
+
+    <!-- Product 2 -->
+    <div class="product-card">
+      <img src="responsive-calculator.png" alt="Calculator Template">
+      <h3>Admin Dashboard UI</h3>
+      <p>Modern admin dashboard template with charts and cards.</p>
+      <a href="https://yousufzai1.gumroad.com/l/huxccb" target="_blank" class="btn">Get Template</a>
+    </div>
+
+  </div>
+</section>
+
+
+</body>
+</html>
