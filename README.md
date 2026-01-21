@@ -31,4 +31,4 @@ Tools & Platforms: GitHub, Gumroad, VS Code, Chrome DevTools
 
 🌐 Live Portfolio
 
-Check out my live portfolio: [] 🔗
+Check out my live portfolio: [https://skcodes04.github.io/sk_codes.github.io/] 🔗
