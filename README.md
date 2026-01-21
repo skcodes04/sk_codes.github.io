@@ -1,6 +1,6 @@
 💻 Sk_codes – Personal Portfolio
 
-Welcome to my personal portfolio! 🚀
+Welcome to my personal portfolio🚀
 Here you’ll find my web development projects, UI/UX designs, and digital products. This portfolio showcases my skills in front-end development, responsive design, and interactive web experiences.
 
 👨‍💻 About Me
