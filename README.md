@@ -1,34 +1,53 @@
-💻 Sk_codes – Personal Portfolio
+# sk_codes Personal Portfolio Website
 
-Welcome to my personal portfolio🚀
-Here you’ll find my web development projects, UI/UX designs, and digital products. This portfolio showcases my skills in front-end development, responsive design, and interactive web experiences.
+A modern, sleek, and fully responsive **Personal Portfolio Website** built with **HTML, CSS, and JavaScript**. Designed to showcase your skills, projects, experience, and contact information with a clean user interface, smooth animations, and support for both dark and light modes.
 
-👨‍💻 About Me
+## ✨ Features
 
-I’m a passionate web developer and designer focused on building clean, functional, and visually appealing websites. I enjoy creating projects that are:
+* Modern & Professional Design
+* Fully Responsive Layout
+* Dark & Light Mode
+* Smooth Scrolling Navigation
+* Hero Section
+* About Me Section
+* Skills Showcase
+* Projects Gallery
+* Contact Form
+* Social Media Links
+* Smooth Animations
+* Easy to Customize
+* Cross-Browser Compatible
 
-User-friendly ✅
+## 🛠️ Built With
 
-Responsive across all devices 📱💻
+* HTML5
+* CSS3
+* JavaScript (ES6)
 
-Professionally polished ✨
+## 📂 Folder Structure
 
-🏆 Portfolio Highlights
+```text
+personal-portfolio/
+│── index.html
+│── style.css
+│── script.js
+│── images/
+└── assets/
+```
 
-Web Development Projects: Responsive websites, dashboards, and utilities
+## 📱 Responsive Design
 
-UI/UX Design: Modern, minimal, and intuitive interfaces
+The portfolio is optimized for:
 
-Digital Products: Tools, calculators, templates, and interactive components
+* Desktop
+* Laptop
+* Tablet
+* Mobile
 
-Open Source Contributions: Learnable and reusable code for developers
+## ⭐ Support
 
-🛠 Technologies & Skills
+If you found this project helpful, please consider giving it a ⭐ on GitHub.
 
-Front-End: HTML5, CSS3, JavaScript, React.
+## 📄 License
 
-Tools & Platforms: GitHub, Gumroad, VS Code, Chrome DevTools
-
-🌐 Live Portfolio
-
-Check out my live portfolio: [https://skcodes04.github.io/sk_codes.github.io/] 🔗
+This project is licensed under the MIT License.
