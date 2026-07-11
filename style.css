@@ -291,15 +291,6 @@ form{
   background-color: #e68900;
 }
 
-.email-link{
-    color: inherit;
-    text-decoration: none;
-}
-
-.email-link:hover{
-    text-decoration: underline;
-}
-
 /* footer */
 footer {
   padding: 50px 20px;
