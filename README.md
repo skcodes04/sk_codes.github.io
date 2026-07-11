@@ -33,7 +33,6 @@ personal-portfolio/
 │── style.css
 │── script.js
 │── images/
-└── assets/
 ```
 
 ## 📱 Responsive Design
